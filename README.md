@@ -1,7 +1,9 @@
 # Big_Data_Capstone_Eglence_Inc
 This project is the final course of a comprehensive Specialization about big data offered by University of California San Diego at Coursera
-A Description of Catch the Pink Flamingo    Let’s imagine now that you are part of a company called, ​ Eglence Inc.​  (If you took the Intro Course  before this course, you might remember our imaginary company Eglence Inc.) 
-One of the products of Eglence Inc. is a highly popular mobile game called “​ Catch The Pink  Flamingo​ ”. The ​ objective
+
+# A Description of Catch the Pink Flamingo    
+Let’s imagine now that you are part of a company called, *Eglence Inc.* (If you took the Intro Course  before this course, you might remember our imaginary company Eglence Inc.) 
+One of the products of Eglence Inc. is a highly popular mobile game called “* Catch The Pink  Flamingo* ”. The ​ objective
 ​  of the game is to catch as many Pink Flamingos as possible by following  the missions provided by real­time prompts in the game and cover the map provided for each level.  The levels get more complicated in mission speed and map complexity as the users move from level  to level. 
 It’s a ​ multi­user game​  where the players have to catch Pink Flamingos that randomly pop up on a  gridded world map based on missions that change in real­time. For the player or team to move to the  next complexity level, they need to have at least one point in every map grid cell, i.e., cover the  whole world map. An ​ example mission​  would be “Catch the Flamingos on land with stars on their  belly” in which the player should only click on flamingos that match the mission criteria, in this case,  stars and being on land. If the player tags any other flamingo on the map, he/she or his/her team  gets a negative point (­1) on that map location. 
 After the initial ​ sign up​ , a player (user) is asked to play the ​ Level 1
