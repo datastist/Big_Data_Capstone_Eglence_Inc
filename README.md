@@ -2,7 +2,7 @@
 This project is the final course of a comprehensive Specialization about big data offered by University of California San Diego at Coursera
 
 # A Description of Catch the Pink Flamingo    
-<div style="text-align: left"> Let's imagine now that you are part of a company called, **Eglence Inc.** (If you took the Intro Course before this course, you might remember our imaginary company Eglence Inc.)</div>
+Let's imagine now that you are part of a company called, **Eglence Inc.** (If you took the Intro Course before this course, you might remember our imaginary company Eglence Inc.)
 
 One of the products of Eglence Inc. is a highly popular mobile game called “**Catch The Pink Flamingo**”. The objective of the game is to catch as many Pink Flamingos as possible by following the missions provided by real-time prompts in the game and cover the map provided for each level. The levels get more complicated in mission speed and map complexity as the users move from level to level.
 
